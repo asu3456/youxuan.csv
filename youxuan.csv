@@ -2,9 +2,7 @@
 166.0.188.128,41443,true,LAX,North America,Los Angeles,176 ms,5524 kB/s
 141.11.86.143,31268,true,NRT,Asia Pacific,Tokyo,232 ms,1655 kB/s
 213.218.254.218,59104,true,NRT,Asia Pacific,Tokyo,242 ms,11 kB/s
-﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 47.88.15.127,443,true,SJC,North America,San Jose,172 ms,77 kB/s
-﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 103.94.185.165,23429,true,LAX,North America,Los Angeles,180 ms,5662 kB/s
 149.104.32.78,9888,true,MRS,Europe,Marseille,223 ms,5035 kB/s
 154.197.92.106,9888,true,MRS,Europe,Marseille,110 ms,4960 kB/s
@@ -107,7 +105,6 @@
 38.6.190.192,2087,true,LAX,North America,Los Angeles,226 ms,575 kB/s
 38.6.190.192,2083,true,LAX,North America,Los Angeles,221 ms,571 kB/s
 149.104.33.179,9888,true,MRS,Europe,Marseille,179 ms,163 kB/s
-﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 152.70.249.67,443,true,ICN,Asia Pacific,Seoul,87 ms,16638 kB/s
 150.230.34.116,443,true,SJC,North America,San Jose,187 ms,6779 kB/s
 143.47.243.144,2053,true,LHR,Europe,London,234 ms,5060 kB/s
@@ -174,7 +171,6 @@
 140.238.88.47,443,true,LHR,Europe,London,236 ms,0 kB/s
 89.168.43.31,2053,true,CDG,Europe,Paris,299 ms,0 kB/s
 213.35.105.46,443,true,SIN,Asia Pacific,Singapore,284 ms,0 kB/s
-﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 124.80.75.68,26658,true,KIX,Asia Pacific,Osaka,361 ms,211 kB/s
 117.123.72.132,21979,true,KIX,Asia Pacific,Osaka,523 ms,201 kB/s
 124.80.75.68,35810,true,KIX,Asia Pacific,Osaka,387 ms,54 kB/s
@@ -182,7 +178,6 @@
 124.80.75.68,25346,true,NRT,Asia Pacific,Tokyo,333 ms,25 kB/s
 124.80.75.68,39658,true,NRT,Asia Pacific,Tokyo,334 ms,0 kB/s
 124.80.20.114,30059,true,ICN,Asia Pacific,Seoul,158 ms,0 kB/s
-﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 204.110.221.174,80,true,SEA,North America,Seattle,204 ms,7279 kB/s
 204.110.220.135,80,true,PDX,North America,Portland,223 ms,6481 kB/s
 204.110.221.48,80,true,SEA,North America,Seattle,201 ms,6148 kB/s
